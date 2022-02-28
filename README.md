@@ -5,9 +5,9 @@
 ----
 - Web Backend
 
- - Server
+ -- Server
 
- - Database
+ -- Database
 - Network
 - AI
 -- Computer Vision

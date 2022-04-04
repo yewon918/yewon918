@@ -8,8 +8,6 @@
 -- Database
 - Network
 - AI
--- Computer Vision
--- Supervised Learning
 
 ## Things that I've experienced
 ---

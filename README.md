@@ -4,10 +4,8 @@
 ## Interested in
 ----
 - Web Backend
--- Server
--- Database
-- Network
-- AI
+- Deep Learning
+- Computer Vision
 
 ## Things that I've experienced
 ---

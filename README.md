@@ -14,24 +14,12 @@
 Proj Name | My roles | Year
 ----- | ----- | -----
 [Steam 게임 정보 Web] | Data Preprocessing and Analyzing, NoSQL(Making Queries) | 2022
-[얼굴인식을 활용한 방문자 관리 시스템](https://github.com/RTW-2021to2022)
-[The Face Detection part](https://github.com/yewon918/VisitorManagement_ML) | Face Detection Model, AWS, CSS and JS | In Progress!!
-
-
-[Dacon - 예선, 심리성향 예측](https://dacon.io/competitions/official/235902/codeshare/6209?page=1&dtype=recent)
-: ML(LGBM, Stacking), CNN... tried various things
-
-[Dacon - 본선, OCR]
-: In progress!!
-
-[학교 공지사항 알림이 Android앱](https://github.com/yewon918/gitSWdeptApp.git)
-: 2021 / Web crawling, list check page
-
-[한국 여행 정보 Web](https://github.com/yewon918/travel-info-page.git)
-: 2021 / JavaScript, Html, CSS...
-
-[장애인 이동수단 알림이 Web](https://github.com/yewon918/PATH.git)
-: 2021 / Data Preprocessing, SQL(Table Design, Data loading, Making Queries), PhP...
+[얼굴인식을 활용한 방문자 관리 시스템](https://github.com/RTW-2021to2022) [The Face Detection part](https://github.com/yewon918/VisitorManagement_ML) | Face Detection Model, AWS, CSS and JS | In Progress!!
+[Dacon - 예선, 심리성향 예측](https://dacon.io/competitions/official/235902/codeshare/6209?page=1&dtype=recent) | ML(LGBM, Stacking), CNN... tried various things | 2022
+[Dacon - 본선, OCR] |  | In progress!!
+[학교 공지사항 알림이 Android앱](https://github.com/yewon918/gitSWdeptApp.git) | Web crawling, list check page | 2021
+[한국 여행 정보 Web](https://github.com/yewon918/travel-info-page.git) | JavaScript, Html, CSS... | 2021
+[장애인 이동수단 알림이 Web](https://github.com/yewon918/PATH.git) | Data Preprocessing, SQL(Table Design, Data loading, Making Queries), PhP... | 2021
 
 
 ## Programming ability

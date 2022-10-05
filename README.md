@@ -32,11 +32,10 @@ Proj Name | My roles | Year
 ## Skills
 - Programming   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"></a>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>
 - Framework   
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"></a>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"></a>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon918&layout=compact)](https://github.com/yewon918/github-readme-stats)

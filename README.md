@@ -28,7 +28,7 @@ Proj Name | My roles | Year
 [Algorithm - Python](https://github.com/yewon918/Algorithm_study.git)
 
 
-
+ 
 ## Skills
 - Programming   
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>

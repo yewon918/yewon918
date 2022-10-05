@@ -30,11 +30,13 @@ Proj Name | My roles | Year
 
  
 ## Skills
-- Programming   
+- Programming
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>
-- Framework   
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white"></a>
+<img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a>
+- Framework
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"></a>
 
 

@@ -3,10 +3,12 @@
 Bit가 눈 앞에서 왔다갔다 - [Visit my blog](https://yewon918.tistory.com/)
 
 
+
 ## Interested in
 - Web Backend
 - Deep Learning
 - Computer Vision
+
 
 
 ## Projects that I joined
@@ -21,8 +23,16 @@ Proj Name | My roles | Year
 [한국 여행 정보 Web](https://github.com/yewon918/travel-info-page.git) | JavaScript, Html, CSS... | 2021
 [장애인 이동수단 알림이 Web](https://github.com/yewon918/PATH.git) | Data Preprocessing, SQL(Table Design, Data loading, Making Queries), PhP... | 2021
 
+...and Studying Alogrithms hard
+
+[Algorithm - Python](https://github.com/yewon918/Algorithm_study.git)
+
+
 
 ## Programming ability
-<img src="https://img.shields.io/badge/C-3747A6?style=flat-square&logo=ClogoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-DA151F?style=flat-square&logo=ClogoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-3747A6?style=flat-square&logo=ClogoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yewon918&layout=compact)](https://github.com/yewon918/github-readme-stats)

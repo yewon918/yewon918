@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20@yewon918%20&height=150&fontSize=70&)
 # Yewon Kim
-[Visit my blog](https://yewon918.tistory.com/)
+Bit가 눈 앞에서 왔다갔다 - [Visit my blog](https://yewon918.tistory.com/)
 
 
 ## Interested in

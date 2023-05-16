@@ -5,9 +5,9 @@ Bit가 눈 앞에서 왔다갔다 - [Visit my blog](https://yewon918.tistory.com
 
 
 ## Interested in
-- Web Backend
+- Bioinformatics
 - Deep Learning
-- Computer Vision
+- Web backend
 
 
 

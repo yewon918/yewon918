@@ -21,7 +21,7 @@ Prediction of drug response using CRISPR gene dependency score | (개인연구) 
 [문자 메시지 순화 시스템](https://github.com/GIST-AI-Creative-Project-2024Spr/cs-project-2024-team-n.git) | Database, server - postgreSQL, Streamlit, FastAPI, Docker, Poetry | 2024
 Prediction of drug response using chromatin profiling | (개인연구) Pytorch, DL | 2023
 Steam 게임 정보 Web | Data Preprocessing and Analyzing, NoSQL(Making Queries) | 2022
-[얼굴인식을 활용한 방문자 관리 시스템](https://github.com/RTW-2021to2022) -> [The Face Detection part](https://github.com/yewon918/VisitorManagement_ML) | Face Detection Model, AWS, CSS and JS | In Progress!!
+[얼굴인식을 활용한 방문자 관리 시스템](https://github.com/RTW-2021to2022) -> [The Face Detection part](https://github.com/yewon918/VisitorManagement_ML) | Face Detection Model, AWS, CSS and JS | 2022
 [Dacon - 예선, 심리성향 예측](https://dacon.io/competitions/official/235902/codeshare/6209?page=1&dtype=recent) | Data analysis, ML(LGBM, Stacking), CNN, Grid serach | 2022
 [학교 공지사항 알림이 Android앱](https://github.com/yewon918/gitSWdeptApp.git) | Web crawling, list check page | 2021
 [한국 여행 정보 Web](https://github.com/yewon918/travel-info-page.git) | JavaScript, Html, CSS... | 2021

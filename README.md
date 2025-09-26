@@ -18,7 +18,7 @@ Proj Name | My roles | Year
 ----- | ----- | -----
 Development of embedding-based deep learning models for predicting drug responses | (졸업연구) Pytorch, DL | 2024
 Prediction of drug response using CRISPR gene dependency score | (개인연구) Pytorch, DL | 2024
-문자 메시지 순화 시스템(https://github.com/GIST-AI-Creative-Project-2024Spr/cs-project-2024-team-n.git) | Database, server - postgreSQL, Streamlit, FastAPI, Docker, Poetry | 2024
+[문자 메시지 순화 시스템](https://github.com/GIST-AI-Creative-Project-2024Spr/cs-project-2024-team-n.git) | Database, server - postgreSQL, Streamlit, FastAPI, Docker, Poetry | 2024
 Prediction of drug response using chromatin profiling | (개인연구) Pytorch, DL | 2023
 Steam 게임 정보 Web | Data Preprocessing and Analyzing, NoSQL(Making Queries) | 2022
 [얼굴인식을 활용한 방문자 관리 시스템](https://github.com/RTW-2021to2022) -> [The Face Detection part](https://github.com/yewon918/VisitorManagement_ML) | Face Detection Model, AWS, CSS and JS | In Progress!!
